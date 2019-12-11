@@ -10,29 +10,29 @@ We ran the benchmarks for the problems on graphs for breadFirstSearch, maximalIn
 
 Each one of the benchmarks has a common and dataGraph file included in them. The list provided below demonstrates the implementaions in each benchmark that can be performed.
 
-1.breadFirstSearch:
-	* determinsitic implementation	
-	* non-deterministic implementation
-	* serial implementation
+#### breadFirstSearch:
+* determinsitic implementation	
+* non-deterministic implementation
+* serial implementation
   
-2.maximalIndependentSet:
-	* incremental implementation
-	* non-deterministic implementation
-	* serial implementation
+#### maximalIndependentSet:
+* incremental implementation
+* non-deterministic implementation
+* serial implementation
   
-3.maximalMatching:
-	* incremental implementation
-	* non-deterministic implementation
-	* serial implementation
+#### maximalMatching:
+* incremental implementation
+* non-deterministic implementation
+* serial implementation
   
-4.minSpanningForest:
-	* parallelKruskal
-	* serial implementation
+#### minSpanningForest:
+* parallelKruskal
+* serial implementation
   
-5.spanningForest:
-	* incremental implementation
-	* non-deterministic implementation
-	* serial implementation
+#### spanningForest:
+* incremental implementation
+* non-deterministic implementation
+* serial implementation
   
 # Video
 
