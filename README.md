@@ -35,7 +35,7 @@ Each one of the benchmarks has a common and dataGraph file included in them. The
 * serial implementation
   
 # Video
-
+Click [here](https://drive.google.com/file/d/1fcqwwb6S8H23X3lkeNoR8P8kOLxHCaLf/view) to view project video.
 # Contributors
 
 Angel D. Burgos Polanco        
