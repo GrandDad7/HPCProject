@@ -36,6 +36,9 @@ Each one of the benchmarks has a common and dataGraph file included in them. The
 # Video
 Click [here](https://drive.google.com/file/d/1fcqwwb6S8H23X3lkeNoR8P8kOLxHCaLf/view) to view project video.
 
+#Report
+Click [here](https://docs.google.com/document/d/1W8n5dXPyh92uhFdSrF36bHBlrr4FU5w04l5iPszzalw/edit?ts=5def0201) to view our report.
+
 # Contributors
 Angel D. Burgos Polanco        
 Fernando L. Guzmán Fernández   
